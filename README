@@ -1,0 +1,5 @@
+1. install package menggunakan requirments.tx
+=> pip install -r requirments.txt
+
+2. jalankan program python
+=> py sample1.py

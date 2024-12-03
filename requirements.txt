@@ -1,0 +1,6 @@
+transformers
+librosa
+torch 
+torchvision 
+torchaudio
+ipython
